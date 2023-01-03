@@ -64,9 +64,10 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 
 ### Stack and Queue
 
-| SR. No. | Problem                                    | Solution                                  |
-| ------: | :----------------------------------------- | :---------------------------------------- |
-|       1 | [Perenthesis Checker][parenthesis_checker] | [Check Here][parenthesis_checker_sol_cpp] |
+| SR. No. | Problem                                     | Solution                                   |
+| ------: | :------------------------------------------ | :----------------------------------------- |
+|       1 | [Perenthesis Checker][parenthesis_checker]  | [Check Here][parenthesis_checker_sol_cpp]  |
+|       2 | [Next Larger Element][next_largest_element] | [Check Here][next_largest_element_sol_cpp] |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
@@ -125,9 +126,13 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [vscode-url]: https://code.visualstudio.com/
 
 <!-- Question links -->
+<!-- stack and queue -->
 
 [parenthesis_checker]: https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1
+[next_largest_element]: https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
 
 <!-- Solution links -->
+<!-- stack and queue -->
 
 [parenthesis_checker_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/ParenthesisChecker.cpp
+[next_largest_element_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/NextGreaterElement.cpp
