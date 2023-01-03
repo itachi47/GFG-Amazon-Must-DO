@@ -58,6 +58,17 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Topics Index
+
+1. [Stack and Queue](#stack-and-queue)
+
+### Stack and Queue
+
+| SR. No. | Problem                                    | Solution                                  |
+| ------: | :----------------------------------------- | :---------------------------------------- |
+|       1 | [Perenthesis Checker][parenthesis_checker] | [Check Here][parenthesis_checker_sol_cpp] |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -118,3 +129,5 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [parenthesis_checker]: https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1
 
 <!-- Solution links -->
+
+[parenthesis_checker_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/ParenthesisChecker.cpp
