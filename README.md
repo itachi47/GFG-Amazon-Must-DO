@@ -71,6 +71,7 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 |       3 | [Queue Using Two Stacks][queue_using_two_stacks]         | [Check Here][queue_using_two_stacks_sol_cpp]     |
 |       4 | [Stack Usng Two Queues][stack_using_two_queues]          | [Check Here][stack_using_two_queues_sol_cpp]     |
 |       5 | [Minimum Element From Stack][minimum_element_from_stack] | [Check Here][minimum_element_from_stack_sol_cpp] |
+|       6 | [LRU Cache][lru_cache]                                   | [Check Here][lru_cache_sol_cpp]                  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
@@ -136,6 +137,7 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [queue_using_two_stacks]: https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
 [stack_using_two_queues]: https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1
 [minimum_element_from_stack]: https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1
+[lru_cache]: https://practice.geeksforgeeks.org/problems/lru-cache/1
 
 <!-- Solution links -->
 <!-- stack and queue -->
@@ -145,3 +147,4 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [queue_using_two_stacks_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/QueUsingTwoStacks.cpp
 [stack_using_two_queues_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/StackUsingTwoQue.cpp
 [minimum_element_from_stack_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/MinimumElementFromStack.cpp
+[lru_cache_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/LRUCache.cpp
