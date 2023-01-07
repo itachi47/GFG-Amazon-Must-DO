@@ -58,6 +58,26 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Topics Index
+
+1. [Stack and Queue](#stack-and-queue)
+
+### Stack and Queue
+
+| SR. No. | Problem                                                                         | Solution                                                 |
+| ------: | :------------------------------------------------------------------------------ | :------------------------------------------------------- |
+|       1 | [Perenthesis Checker][parenthesis_checker]                                      | [Check Here][parenthesis_checker_sol_cpp]                |
+|       2 | [Next Larger Element][next_largest_element]                                     | [Check Here][next_largest_element_sol_cpp]               |
+|       3 | [Queue Using Two Stacks][queue_using_two_stacks]                                | [Check Here][queue_using_two_stacks_sol_cpp]             |
+|       4 | [Stack Usng Two Queues][stack_using_two_queues]                                 | [Check Here][stack_using_two_queues_sol_cpp]             |
+|       5 | [Minimum Element From Stack][minimum_element_from_stack]                        | [Check Here][minimum_element_from_stack_sol_cpp]         |
+|       6 | [LRU Cache][lru_cache]                                                          | [Check Here][lru_cache_sol_cpp]                          |
+|       7 | [Circular Tour][circular_tour]                                                  | [Check Here][circular_tour_sol_cpp]                      |
+|       8 | [First Non-Repeating Character in a Stream][first_non_repeating_char_in_stream] | [Check Here][first_non_repeating_char_in_stream_sol_cpp] |
+|       9 | [Rotten Oranges][rotten_oranges]                                                | [Check Here][rotten_oranges_sol_cpp]                     |
+|      10 | [Maximum of All Sub-Array of Size K][max_all_subarray_size_k]                   | [Check Here][max_all_subarray_size_k_sol_cpp]            |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -114,7 +134,29 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [vscode-url]: https://code.visualstudio.com/
 
 <!-- Question links -->
+<!-- stack and queue -->
 
 [parenthesis_checker]: https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1
+[next_largest_element]: https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
+[queue_using_two_stacks]: https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+[stack_using_two_queues]: https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1
+[minimum_element_from_stack]: https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1
+[lru_cache]: https://practice.geeksforgeeks.org/problems/lru-cache/1
+[circular_tour]: https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1
+[first_non_repeating_char_in_stream]: https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
+[rotten_oranges]: https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1
+[max_all_subarray_size_k]: https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
 
 <!-- Solution links -->
+<!-- stack and queue -->
+
+[parenthesis_checker_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/ParenthesisChecker.cpp
+[next_largest_element_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/NextGreaterElement.cpp
+[queue_using_two_stacks_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/QueUsingTwoStacks.cpp
+[stack_using_two_queues_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/StackUsingTwoQue.cpp
+[minimum_element_from_stack_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/MinimumElementFromStack.cpp
+[lru_cache_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/LRUCache.cpp
+[circular_tour_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/CircularTour.cpp
+[first_non_repeating_char_in_stream_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/FirstNonRepeatingCharInStream.cpp
+[rotten_oranges_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/RottenOranges.cpp
+[max_all_subarray_size_k_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/MaxOfAllSubArrayOfSizeK.cpp
