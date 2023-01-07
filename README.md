@@ -74,6 +74,7 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 |       6 | [LRU Cache][lru_cache]                                                          | [Check Here][lru_cache_sol_cpp]                          |
 |       7 | [Circular Tour][circular_tour]                                                  | [Check Here][circular_tour_sol_cpp]                      |
 |       8 | [First Non-Repeating Character in a Stream][first_non_repeating_char_in_stream] | [Check Here][first_non_repeating_char_in_stream_sol_cpp] |
+|       9 | [Rotten Oranges][rotten_oranges]                                                | [Check Here][rotten_oranges_sol_cpp]                     |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
@@ -142,6 +143,7 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [lru_cache]: https://practice.geeksforgeeks.org/problems/lru-cache/1
 [circular_tour]: https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1
 [first_non_repeating_char_in_stream]: https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
+[rotten_oranges]: https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1
 
 <!-- Solution links -->
 <!-- stack and queue -->
@@ -154,3 +156,4 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [lru_cache_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/LRUCache.cpp
 [circular_tour_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/CircularTour.cpp
 [first_non_repeating_char_in_stream_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/FirstNonRepeatingCharInStream.cpp
+[rotten_oranges_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/RottenOranges.cpp
