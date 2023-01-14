@@ -82,11 +82,12 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 
 ### Array
 
-| SR. No. | Problem                                           | Solution                                     |
-| ------: | :------------------------------------------------ | :------------------------------------------- |
-|       1 | [Subarray with given sum][subaray_with_given_sum] | [Check Here][subaray_with_given_sum_sol_cpp] |
-|       2 | [Count Triplets][count_triplets]                  | [Check Here][count_triplets_sol_cpp]         |
-|       3 | [Kadane's Algorithm][kadanes_algorithm]           | [Check Here][kadanes_algorithm_sol_cpp]      |
+| SR. No. | Problem                                            | Solution                                      |
+| ------: | :------------------------------------------------- | :-------------------------------------------- |
+|       1 | [Subarray with given sum][subaray_with_given_sum]  | [Check Here][subaray_with_given_sum_sol_cpp]  |
+|       2 | [Count Triplets][count_triplets]                   | [Check Here][count_triplets_sol_cpp]          |
+|       3 | [Kadane's Algorithm][kadanes_algorithm]            | [Check Here][kadanes_algorithm_sol_cpp]       |
+|       4 | [Missing Number in Array][missing_number_in_array] | [Check Here][missing_number_in_array_sol_cpp] |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,6 +165,7 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [subaray_with_given_sum]: https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
 [count_triplets]: https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1
 [kadanes_algorithm]: https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
+[missing_number_in_array]: https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
 
 <!-- Solution links -->
 <!-- stack and queue -->
@@ -184,3 +186,4 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [subaray_with_given_sum_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/SubarrayWithGivenSum.cpp
 [count_triplets_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/CountTriplets.cpp
 [kadanes_algorithm_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/KadanesAlgorithm.cpp
+[missing_number_in_array_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/MissingNumberInArray.cpp
