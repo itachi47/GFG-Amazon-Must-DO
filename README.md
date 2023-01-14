@@ -85,6 +85,7 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 | SR. No. | Problem                                           | Solution                                     |
 | ------: | :------------------------------------------------ | :------------------------------------------- |
 |       1 | [Subarray with given sum][subaray_with_given_sum] | [Check Here][subaray_with_given_sum_sol_cpp] |
+|       2 | [Count Triplets][count_triplets]                  | [Check Here][count_triplets_sol_cpp]         |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,6 +161,7 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 <!-- Array -->
 
 [subaray_with_given_sum]: https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+[count_triplets]: https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1
 
 <!-- Solution links -->
 <!-- stack and queue -->
@@ -178,3 +180,4 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 <!-- Array -->
 
 [subaray_with_given_sum_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/SubarrayWithGivenSum.cpp
+[count_triplets_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/CountTriplets.cpp
