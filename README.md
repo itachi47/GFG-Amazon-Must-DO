@@ -61,6 +61,7 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 ## Topics Index
 
 1. [Stack and Queue](#stack-and-queue)
+2. [Array](#array)
 
 ### Stack and Queue
 
@@ -78,6 +79,15 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 |      10 | [Maximum of All Sub-Array of Size K][max_all_subarray_size_k]                   | [Check Here][max_all_subarray_size_k_sol_cpp]            |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Array
+
+| SR. No. | Problem                                           | Solution                                     |
+| ------: | :------------------------------------------------ | :------------------------------------------- |
+|       1 | [Subarray with given sum][subaray_with_given_sum] | [Check Here][subaray_with_given_sum_sol_cpp] |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -147,6 +157,10 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [rotten_oranges]: https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1
 [max_all_subarray_size_k]: https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
 
+<!-- Array -->
+
+[subaray_with_given_sum]: https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+
 <!-- Solution links -->
 <!-- stack and queue -->
 
@@ -160,3 +174,7 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [first_non_repeating_char_in_stream_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/FirstNonRepeatingCharInStream.cpp
 [rotten_oranges_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/RottenOranges.cpp
 [max_all_subarray_size_k_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/StackAndQueue/MaxOfAllSubArrayOfSizeK.cpp
+
+<!-- Array -->
+
+[subaray_with_given_sum_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/SubarrayWithGivenSum.cpp
