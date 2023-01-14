@@ -88,6 +88,7 @@ git clone https://github.com/itachi47/GFG-Amazon-Must-DO.git
 |       2 | [Count Triplets][count_triplets]                   | [Check Here][count_triplets_sol_cpp]          |
 |       3 | [Kadane's Algorithm][kadanes_algorithm]            | [Check Here][kadanes_algorithm_sol_cpp]       |
 |       4 | [Missing Number in Array][missing_number_in_array] | [Check Here][missing_number_in_array_sol_cpp] |
+|       5 | [Merge Two Sorted Arrays][merge_two_sorted_array]  | [Check Here][merge_two_sorted_array_sol_cpp]  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,6 +167,7 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [count_triplets]: https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1
 [kadanes_algorithm]: https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
 [missing_number_in_array]: https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
+[merge_two_sorted_array]: https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1
 
 <!-- Solution links -->
 <!-- stack and queue -->
@@ -187,3 +189,4 @@ Project Link: [https://github.com/itachi47/GFG-Amazon-Must-DO](https://github.co
 [count_triplets_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/CountTriplets.cpp
 [kadanes_algorithm_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/KadanesAlgorithm.cpp
 [missing_number_in_array_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/MissingNumberInArray.cpp
+[merge_two_sorted_array_sol_cpp]: https://github.com/itachi47/GFG-Amazon-Must-DO/blob/main/CPP/Array/MergeTwoSortedArray.cpp
